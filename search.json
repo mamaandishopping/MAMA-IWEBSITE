@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Home",
+    "url": "index.html",
+    "content": "Welcome to Global Auto Techs. We provide car tracking, fleet management, and security systems."
+  },
+  {
+    "title": "About Us",
+    "url": "about.html",
+    "content": "Learn more about our mission in vehicle tracking, GPS monitoring, and car security."
+  },
+  {
+    "title": "Services",
+    "url": "services.html",
+    "content": "Our services include GPS asset tracking, motorcycle tracking, fleet management, alarms, and dashboard cameras."
+  },
+  {
+    "title": "Contact",
+    "url": "contact.html",
+    "content": "Reach us for reliable car tracking solutions, support, and installation services."
+  }
+]

@@ -1,0 +1,63 @@
+Perfect 👍 Let’s automate it so your search.json updates every day without you doing anything.
+
+There are two common ways:
+
+🔹 Option 1: Windows (Task Scheduler)
+
+If you are on Windows:
+
+Open Task Scheduler (search for it in Start menu).
+
+Click Create Task → give it a name like:
+Update Website Search JSON
+
+Go to the Triggers tab → Click New → Set:
+
+Begin the task: On a schedule
+
+Daily → Repeat every 1 day
+
+Pick a time (e.g. 2:00 AM).
+
+Go to the Actions tab → Click New:
+
+Action: Start a program
+
+Program/script: python
+
+Add arguments:
+
+C:\Users\Anne\Documents\website\update_search_json.py
+
+
+(Change the path to where your script is saved.)
+
+Save → Done ✅
+
+Now Windows will run the script every day at 2 AM and regenerate search.json.
+
+
+or
+
+
+ Option 1: Windows (Task Scheduler)
+
+Save your Python script as update_search.py.
+
+Open Task Scheduler (press Windows key → search for "Task Scheduler").
+
+Click Create Basic Task → give it a name like Update Search JSON.
+
+Trigger → choose Daily (set the time, e.g. 2 AM).
+
+Action → choose Start a Program.
+
+Program/script: python
+
+Add arguments: C:\path\to\update_search.py
+
+Start in: C:\path\to\your\script\folder
+
+Save → Done ✅
+
+Now, every day at 2 AM, Windows will run your script → crawl your site → upload new search.json.
