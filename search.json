@@ -2,21 +2,36 @@
   {
     "title": "Home",
     "url": "index.html",
-    "content": "Welcome to Global Auto Techs. We provide car tracking, fleet management, and security systems."
-  },
-  {
-    "title": "About Us",
-    "url": "about.html",
-    "content": "Learn more about our mission in vehicle tracking, GPS monitoring, and car security."
-  },
-  {
-    "title": "Services",
-    "url": "services.html",
-    "content": "Our services include GPS asset tracking, motorcycle tracking, fleet management, alarms, and dashboard cameras."
+    "content": "Welcome to our Home Appliances Shop. Discover quality products for your home and family."
   },
   {
     "title": "Contact",
     "url": "contact.html",
-    "content": "Reach us for reliable car tracking solutions, support, and installation services."
+    "content": "Get in touch with us for inquiries, support, or bulk orders of home appliances."
+  },
+  {
+    "title": "Shop",
+    "url": "shop.html",
+    "content": "Browse our wide range of home appliances at affordable prices."
+  },
+  {
+    "title": "Cart",
+    "url": "cart.html",
+    "content": "View and manage the products you’ve added before proceeding to checkout."
+  },
+  {
+    "title": "Checkout",
+    "url": "checkout.html",
+    "content": "Securely complete your purchase with our simple checkout process."
+  },
+  {
+    "title": "Blog",
+    "url": "blog.html",
+    "content": "Read helpful tips, guides, and updates about home appliances and lifestyle."
+  },
+  {
+    "title": "Kids Section",
+    "url": "kids-section.html",
+    "content": "Explore our kids’ section with appliances, toys, and family-friendly home products."
   }
 ]
